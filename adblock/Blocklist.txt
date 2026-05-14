@@ -1018,6 +1018,7 @@
 ||aws-serverless-tools-telemetry.us-west-2.amazonaws.com^
 ||rum.us-west-2.amazonaws.com^
 ||cloudfront-labs.amazonaws.com^
+! cloudfront.net
 ||server-13-225-78-19.fra2.r.cloudfront.net^
 ||server-13-225-78-30.fra2.r.cloudfront.net^
 ||server-13-225-78-60.fra2.r.cloudfront.net^
@@ -1463,6 +1464,7 @@
 ||d1stxfv94hrhia.cloudfront.net^
 ||d1su7676ffyt2e.cloudfront.net^
 ||d1sytkg9v37f5q.cloudfront.net^
+||d1t18p67ia2cnc.cloudfront.net^
 ||d1t1fxgxazche8.cloudfront.net^
 ||d1t38ngzzazukx.cloudfront.net^
 ||d1t4ekjh9ps4ob.cloudfront.net^
@@ -1799,6 +1801,7 @@
 ||d2it5qvo5v7f26.cloudfront.net^
 ||d2izcn32j62dtp.cloudfront.net^
 ||d2izezc8ujpkba.cloudfront.net^
+||d2izls9pm2f64q.cloudfront.net^
 ||d2j042cj1421wi.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
 ||d2j45sh7zpklsw.cloudfront.net^
@@ -2240,6 +2243,7 @@
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3e8xvf8dyclkj.cloudfront.net^
 ||d3ea0dyj1ehgcr.cloudfront.net^
+||d3eaaylp894lcg.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
 ||d3edizycpjjo07.cloudfront.net^
 ||d3efeah7vk80fy.cloudfront.net^
@@ -2303,6 +2307,7 @@
 ||d3j3yrurxcqogk.cloudfront.net^
 ||d3j7esvm4tntxq.cloudfront.net^
 ||d3j9574la231rm.cloudfront.net^
+||d3j9d91vxmbmsx.cloudfront.net^
 ||d3jcjsor8fnmka.cloudfront.net^
 ||d3jdulus8lb392.cloudfront.net^
 ||d3jdzopz39efs7.cloudfront.net^
@@ -2404,6 +2409,7 @@
 ||d3q6px0y2suh5n.cloudfront.net^
 ||d3q762vmkbqrah.cloudfront.net^
 ||d3q7vxy7usqoub.cloudfront.net^
+||d3q7xfmmsiw3.cloudfront.net^
 ||d3qeaw5w9eu3lm.cloudfront.net^
 ||d3qgd3yzs41yp.cloudfront.net^
 ||d3qilfrpqzfrg4.cloudfront.net^
@@ -2604,6 +2610,7 @@
 ||dcbbwymp1bhlf.cloudfront.net^
 ||dcdhb6nl9plwp.cloudfront.net^
 ||dcjg1gv1px1h.cloudfront.net^
+||dcmm282azzjeb.cloudfront.net^
 ||dcniko1cv0rz.cloudfront.net^
 ||dcqtn1np2a3xz.cloudfront.net^
 ||dct4jph3as9lp.cloudfront.net^
@@ -2762,6 +2769,7 @@
 ||dn3uy6cx65ujf.cloudfront.net^
 ||dn3y71tq7jf07.cloudfront.net^
 ||dn4d1v1ofq2j1.cloudfront.net^
+||dn666andut2j1.cloudfront.net^
 ||dn6rwwtxa647p.cloudfront.net^
 ||dn7u3i0t165w2.cloudfront.net^
 ||dn9uzzhcwc0ya.cloudfront.net^
