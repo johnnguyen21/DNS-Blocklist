@@ -1,0 +1,13 @@
+||qeloviro.com^$dnsrewrite=standard-block.dns.adguard.com
+||turbofilevault3.lat^$dnsrewrite=standard-block.dns.adguard.com
+||subcoatowls.cyou^$dnsrewrite=standard-block.dns.adguard.com
+||realvelocity.xyz^$dnsrewrite=standard-block.dns.adguard.com
+||idmepajsk.my^$dnsrewrite=standard-block.dns.adguard.com
+||broadlyjukeboxunrevised.com^$dnsrewrite=standard-block.dns.adguard.com
+||reportallege.com^$dnsrewrite=standard-block.dns.adguard.com
+||dexpredict.com^$dnsrewrite=standard-block.dns.adguard.com
+||chivalrousmuseumsank.com^$dnsrewrite=standard-block.dns.adguard.com
+||bonuscaf.com^$dnsrewrite=standard-block.dns.adguard.com
+||enstatehelibus.com^$dnsrewrite=standard-block.dns.adguard.com
+||sliwercohue.top^$dnsrewrite=standard-block.dns.adguard.com
+||justifyafterward.com^$dnsrewrite=standard-block.dns.adguard.com
