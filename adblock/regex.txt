@@ -28,7 +28,6 @@
 ! DNS Tunneling
 /^.{50,}\./
 /^[a-zA-Z0-9+\/]{30,}\./
-/^([^.]+\.){5,}/
 ! Malvertising
 /^(.+[_.-])?malvert(is(ing|ement))?[_.-]/
 /^(exploit|payload|shellcode|dropper)[_.-]/
