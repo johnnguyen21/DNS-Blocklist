@@ -121,6 +121,17 @@
 ||securemetrics.v.aaplimg.com^
 ||securemetrics-z.v.aaplimg.com^
 ||securemvt.v.aaplimg.com^
+||axm-telemetry.v.aaplimg.com^
+||prod-app-analytics-event-gateway.v.aaplimg.com^
+||prod-event-relay-books-api.v.aaplimg.com^
+||prod-event-relay-notes-api.v.aaplimg.com^
+||prod-event-relay-sports-api.v.aaplimg.com^
+||prod-event-relay-stocks-api.v.aaplimg.com^
+||prod-event-relay-weather-api.v.aaplimg.com^
+||prod-news-notification-events.v.aaplimg.com^
+||securemetrics.v.aaplimg.com^
+||securemetrics-z.v.aaplimg.com^
+||securemvt.v.aaplimg.com^
 ||feedbackws.fe2.apple-dns.net^
 ||books-analytics-events.news.apple-dns.net^
 ||notes-analytics-events.news.apple-dns.net^
