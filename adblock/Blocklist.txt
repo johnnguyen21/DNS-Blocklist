@@ -35,3 +35,7 @@
 ||universal-zinstant.api.zaloapp.com^$important
 ||stc-oa.zdn.vn^$important
 ||ntp.msn.com^$important
+||ogads-pa.clients6.google.com^$important
+||appsflyersdk.com^$important
+||logs.netflix.com^$important
+||mon-boot.tiktokv.com^$important
