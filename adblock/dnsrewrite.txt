@@ -11,3 +11,5 @@
 ||enstatehelibus.com^$dnsrewrite=standard-block.dns.adguard.com
 ||sliwercohue.top^$dnsrewrite=standard-block.dns.adguard.com
 ||justifyafterward.com^$dnsrewrite=standard-block.dns.adguard.com
+||gamerhit.co^$dnsrewrite=standard-block.dns.adguard.com
+||gamerdenz.com^$dnsrewrite=standard-block.dns.adguard.com
