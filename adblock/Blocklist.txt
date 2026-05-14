@@ -1,6 +1,8 @@
 ||connect.facebook.com^$important
 ||connect.facebook.net^$important
 ||ep*.facebook.com^$important
+||xy.fbcdn.net^$important
+||xz.fbcdn.net^$important
 ||socialplugin.facebook.net^$important
 ||invl.io^$important
 ||invl.me^$important
