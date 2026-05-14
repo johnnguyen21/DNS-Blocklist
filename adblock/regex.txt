@@ -1,4 +1,4 @@
-# Ads/Tracker
+! Ads/Tracker
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /^adim(age|g)s?[0-9]*[_.-]/
@@ -7,33 +7,33 @@
 /^banners?[_.-]/
 /^pixels?[_.-]/
 /^beacons?[0-9]*[_.-]/
-# Telemetry
+! Telemetry
 /^(.+[_.-])?telemetry[_.-]/
 /^analytics?[_.-]/
 /^stat(s|istics)?[0-9]*[_.-]/
 /^count(ers?)?[0-9]*[_.-]/
 /^metrics?[_.-]/
 /^(.+[_.-])?collect(or)?[_.-]/
-# Phishing
+! Phishing
 /^(secure[-.]|login[-.]|verify[-.]|account[-.]|signin[-.]|update[-.])(paypal|apple|google|amazon|microsoft|facebook|netflix|instagram|tiktok)/
 /^(paypal|apple|google|amazon|microsoft|facebook|netflix)[-._](secure|login|verify|support|helpdesk|alert|billing|account)/
 /(official|security|safe|protect|verify|authenticate)[-._](paypal|apple|google|amazon|microsoft|facebook)/
 #Malware C2
 /^[a-z0-9]{8,}\.(tk|ml|ga|cf|gq|pw|top|xyz|click|download|win|racing|review|date)$/
 /^[0-9]{1,3}[-][0-9]{1,3}[-][0-9]{1,3}[-][0-9]{1,3}\./
-# Credential Harvesting
+! Credential Harvesting
 /^(password|credential|login|signin|auth)[0-9]*[-._]/
 /[-._](password|credential|harvest|stealer|keylog)/
 /^[a-z0-9]{6,}(\.[a-z0-9]{6,}){3,}\./
-# DNS Tunneling
+! DNS Tunneling
 /^.{50,}\./
 /^[a-zA-Z0-9+\/]{30,}\./
 /^([^.]+\.){5,}/
-# Malvertising
+! Malvertising
 /^(.+[_.-])?malvert(is(ing|ement))?[_.-]/
 /^(exploit|payload|shellcode|dropper)[_.-]/
 /^(drive[-]?by|watering[-]?hole)[_.-]/
-# Stalkerware
+! Stalkerware
 /^(.+[_.-])?(stalk|snoop|spy|monitor|surveil|intercept)[_.-]/
 /^(mspy|flexispy|hoverwatch|spyzie|cocospy|eyezy)/
 /[-._](keylog|screenlog|smstrack|gpstrack|calllog)/
