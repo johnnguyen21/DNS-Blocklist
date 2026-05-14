@@ -644,7 +644,6 @@
 ||ad-2057985904.ap-southeast-1.elb.amazonaws.com^
 ||ads-1821218336.ap-southeast-1.elb.amazonaws.com^
 ||ads-730738929.ap-southeast-1.elb.amazonaws.com^
-||adsimg-kompascom-1349122490.ap-southeast-1.elb.amazonaws.com^
 ||apse1-ssp-prod-adserv-alb-365694524.ap-southeast-1.elb.amazonaws.com^
 ||sgp-ads-heytapmobi-pubgw-819691514.ap-southeast-1.elb.amazonaws.com^
 ||sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com^
@@ -709,6 +708,7 @@
 ||ads-411442584.us-east-1.elb.amazonaws.com^
 ||adserver-1768966121.us-east-1.elb.amazonaws.com^
 ||adserver-alb-prod-1154786121.us-east-1.elb.amazonaws.com^
+||adserver-load-balancer-449180619.us-east-1.elb.amazonaws.com^
 ||adserver-sync-elb-1682711292.us-east-1.elb.amazonaws.com^
 ||adserver-vpc-alb-0-2072243822.us-east-1.elb.amazonaws.com^
 ||adserver-vpc-alb-1-2048135467.us-east-1.elb.amazonaws.com^
@@ -775,7 +775,6 @@
 ||sp2-collector-lb-303005345.us-east-2.elb.amazonaws.com^
 ||ad-interactions-prod-lb-1289981577.us-west-1.elb.amazonaws.com^
 ||ana-collector-alb-eu-iron-110297059.us-west-1.elb.amazonaws.com^
-||ana-collector-alb-eu-zinc-1587226068.us-west-1.elb.amazonaws.com^
 ||ana-collector-alb-us-iron-1456091674.us-west-1.elb.amazonaws.com^
 ||ad-apigateway-ext-1951628128.us-west-2.elb.amazonaws.com^
 ||ad-interactions-prod-lb-1360779871.us-west-2.elb.amazonaws.com^
@@ -786,6 +785,7 @@
 ||adserver-vpc-alb-3-578630024.us-west-2.elb.amazonaws.com^
 ||analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com^
 ||analytics-proxy-production-72829403.us-west-2.elb.amazonaws.com^
+||aws-alb-matomo-prod-1154882839.us-west-2.elb.amazonaws.com^
 ||cam-analytics-service-435433079.us-west-2.elb.amazonaws.com^
 ||dse-collector-prod-759036150.us-west-2.elb.amazonaws.com^
 ||k8s-prdtools-analytic-8d32e5d64d-490410979.us-west-2.elb.amazonaws.com^
@@ -801,6 +801,7 @@
 ||rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com^
 ||sentry-lb-1666719947.us-west-2.elb.amazonaws.com^
 ||shared-prd-1752266577.us-west-2.elb.amazonaws.com^
+||tracker-prod-1604029607.us-west-2.elb.amazonaws.com^
 ||vzw-analytics-elb-640016604.us-west-2.elb.amazonaws.com^
 ||search-hll-dev-analytics-jn2doyvzdresfegp673q3pdn3m.eu-west-1.es.amazonaws.com^
 ||ieluqbvv.telemetry.connect.eu-central-1.amazonaws.com^
@@ -852,9 +853,7 @@
 ||adtago.s3.amazonaws.com^
 ||adtechvideo.s3.amazonaws.com^
 ||advancelocal-adapter-image-uploads.s3.amazonaws.com^
-||advert-creatives.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
-||advrts.s3.amazonaws.com^
 ||adx1js.s3.amazonaws.com^
 ||adzerk.s3.amazonaws.com^
 ||affiliationjs.s3.amazonaws.com^
