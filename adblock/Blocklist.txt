@@ -39,3 +39,5 @@
 ||ntp.msn.com^$important
 ||analytics.adjust.com^$important
 ||analytics.adjust.io^$important
+|||androidfly.com^$important
+
