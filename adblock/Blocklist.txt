@@ -37,3 +37,5 @@
 ||universal-zinstant.api.zaloapp.com^$important
 ||stc-oa.zdn.vn^$important
 ||ntp.msn.com^$important
+||analytics.adjust.com^$important
+||analytics.adjust.io^$important
