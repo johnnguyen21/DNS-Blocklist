@@ -39,5 +39,7 @@
 ||ntp.msn.com^$important
 ||analytics.adjust.com^$important
 ||analytics.adjust.io^$important
-|||androidfly.com^$important
-
+||androidfly.com^$important
+! apple
+||mask.icloud.com^$important
+||mask-h2.icloud.com^$important
