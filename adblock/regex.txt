@@ -32,7 +32,6 @@
 /^stat(s|istics)?[0-9]*[_.-]/
 /^stat(s|istics)?[0-9]*[-.]/
 /^(s)?stat(s|istics)?[0-9]*[-.]/
-/^track(ers?|ing)?[0-9]*[-.]/
 /^traff(ic)?[-.]/
 ! Google Ads & Services
 /google-{0,}(analytic|syndication|(ad[a-z0-9]*|tag)-{0,}service)[s]\.[a-z]{2,7}$/
